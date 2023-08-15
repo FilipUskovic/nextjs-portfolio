@@ -8,12 +8,12 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
      {
-      name: "Threads communcations app",
+      name: "Threads communcations app (Currently Working)",
        description:
          "This is Threads clone, full-stack created with Next.js 13 serverles and (MoongoDb) and Clerk ",
-       image: "/Reactfullstak.png",
-       github_backend: "https://github.com/FilipUskovic/movie-api-java",
-       github_frontend: "https://github.com/FilipUskovic/movie-clinet-react",
+       image: "/threads.png",
+       github_backend: "https://github.com/FilipUskovic/ThreadsClerk_app",
+       github_frontend: "https://github.com/FilipUskovic/ThreadsClerk_app",
        link: "https://nextjs-portfolio-euux.vercel.app/",
      },
      {
