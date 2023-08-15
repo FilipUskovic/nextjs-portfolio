@@ -8,7 +8,7 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
      {
-       name: "Simple movie page (Fmoves clone)  P.S click on the screen when on open site to who movies ",
+       name: "Simple movie page (Fmoves clone) P.S. click on the screen when on open site to who movies ",
        description:
          "This is simple fully responsive full stack app (Java 17, SpringBoot, React Bootsrap and MongoDb Atlas), you can watch trailer and post comments",
        image: "/Reactfullstak.png",
