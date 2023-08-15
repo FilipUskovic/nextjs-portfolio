@@ -11,7 +11,7 @@ const Contact = () => {
             Contact Me
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Tell me what u need!
+            Tell me what you need!
           </p>
         </div>
         <div className="lg:w-1/2 md:w-2/3 mx-auto">
